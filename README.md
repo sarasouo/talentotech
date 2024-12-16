@@ -10,7 +10,7 @@
 
 - Design simples com uso básico de CSS para estilização.
 
-- Estrutura do Projeto
+*Estrutura do Projeto*
 
 2. O projeto é composto pelos seguintes arquivos:
 
