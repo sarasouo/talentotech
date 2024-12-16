@@ -18,12 +18,10 @@
 
 - style.css: Estilização básica embutida no próprio arquivo HTML.
 
-- imagens/: (Opcional) Pasta para armazenar imagens locais, caso decida usar imagens próprias em vez de URLs públicas.
+- imagens/: Pasta para armazenar imagens locais, caso decida usar imagens próprias em vez de URLs públicas.
 
 3. Como Usar
 
 - Clone ou baixe este repositório para o seu computador.
 
 - Abra o arquivo index.html em qualquer navegador de sua escolha.
-
-Caso deseje usar imagens locais, substitua o valor do atributo src da tag <img> no arquivo HTML pelo nome do arquivo da imagem e mova a imagem para a pasta do projeto.
